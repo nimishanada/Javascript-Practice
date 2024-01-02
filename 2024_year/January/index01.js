@@ -1,4 +1,4 @@
-// find the area of a triangle
+//  find the area of a triangle
 
 function areaOfTriangle(side1,side2,side3){
     const s = (side1 + side2 + side3) / 2;
