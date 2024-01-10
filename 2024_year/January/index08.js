@@ -12,4 +12,4 @@ function myFunction(number){
     }
     
     }
-    console.log(myFunction(5));
+    console.log(myFunction(5)); //The number is odd.
