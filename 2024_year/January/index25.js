@@ -1,4 +1,4 @@
-//Array.slice method
+// Array.slice method
 
 const fruits = ["Banana", "Orange", "Lemon", "Apple", "Mango"];
 
